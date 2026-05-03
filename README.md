@@ -1,4 +1,4 @@
-# Network Cell Analyze
+# Network Cell Analyzer
 
 Android client + Flask backend + LightGBM dead-zone prediction service for Lebanese cellular coverage (Alfa, Touch — 2G/3G/4G/5G).
 
